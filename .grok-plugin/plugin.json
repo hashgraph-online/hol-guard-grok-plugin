@@ -1,0 +1,24 @@
+{
+  "name": "hol-guard-grok-plugin",
+  "version": "0.1.0",
+  "description": "Grok Build plugin for HOL Guard local AI harness protection across Grok, Codex, Claude Code, and other agent/plugin systems.",
+  "author": {
+    "name": "Hashgraph Online",
+    "email": "dev@hol.org",
+    "url": "https://github.com/hashgraph-online"
+  },
+  "homepage": "https://github.com/hashgraph-online/hol-guard-grok-plugin",
+  "repository": "https://github.com/hashgraph-online/hol-guard-grok-plugin",
+  "license": "Apache-2.0",
+  "keywords": [
+    "hol-guard",
+    "ai-security",
+    "plugin-scanner",
+    "mcp",
+    "grok",
+    "grok-build",
+    "skills"
+  ],
+  "skills": "./skills/",
+  "logo": "./assets/logo.svg"
+}
