@@ -26,7 +26,7 @@ jobs:
         run: node tests/validate-plugin.mjs
 
       - name: Install Plugin Scanner
-        run: python3 -m pip install --user "plugin-scanner[cisco]==2.0.12"
+        run: python3 -m pip install --user "plugin-scanner[cisco]==3.58.0"
 
       - name: Scan plugin package
         run: |
